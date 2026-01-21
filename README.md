@@ -1,3 +1,4 @@
+![Morse Machine](images/circuit_image.png)
 ## Morse Machine
 
 The Morse Machine is a simple Morse code translator built using an **Arduino Uno**, **KY-008 Laser Emitter**, **KY-012 Buzzer**, and a **KY-040 Rotary Encoder**.
